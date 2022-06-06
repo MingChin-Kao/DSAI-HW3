@@ -4,8 +4,6 @@
 ```
    python main.py --consumption {consumption_file} --generation {generation_file} --bidresult {bidresult_file} --output {output_file}
 
-   
-
 ```
 
 ### Source
