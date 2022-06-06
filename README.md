@@ -1,4 +1,12 @@
-# DSAI-HW3-2021
+# DSAI-HW3-2022
+
+### 執行程式碼
+```
+   python main.py --consumption {consumption_file} --generation {generation_file} --bidresult {bidresult_file} --output {output_file}
+
+   
+
+```
 
 ### Source
 
