@@ -64,7 +64,7 @@ if __name__ == "__main__":
         trade_strategy = normal_trade(output_date)
 
     output(args.output, trade_strategy)
-
+    #output(args.output, trade_strategy)
     #data = [[output_date, "buy", 2, 5]]
 
     # data = [["2018-01-01 00:00:00", "buy", 2.5, 3],
